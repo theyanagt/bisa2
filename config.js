@@ -3,22 +3,22 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6285759681568']  // isi jika perlu
+global.mods = ['6285759681568']   // isi jika perlu
+global.prems = ['6285759681568']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
+global.nameowner = '⫹⫺ Xzyyo' // isi nama kalian bebas
+global.numberowner = '6285759681568' // isi nomor kalian dengan awalan seperti di contoh 
 global.instagram = 'https://instagram.com/prm2.0' // isi Instagram kalian harus link
-global.github = 'https://github.com/BOTCAHX' // gausah di isi juga gpp bro
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = ''
+global.github = 'https://github.com/syarii' // gausah di isi juga gpp bro
+global.dana = '6287819503464' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6285759681568' // isi dengan nomor pulsa hp kalian
+global.gopay = '6287819503464'
 
 //Name Bot & Grouplink//
-global.namebot = 'R-txzyMd'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+global.namebot = 'XzyyoBOT'
+global.gc = 'https://chat.whatsapp.com/GPowqGKUrkM86EoVVyLc14'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
