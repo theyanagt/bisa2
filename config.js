@@ -25,8 +25,8 @@ global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
-global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.lolkey = 'Danwfrostkey' //biar mudah ngegantinya semisal apikeynya expired:v
+global.zenzkey = 'apivinz' //ganti jadi apikey lu kalau expired
 global.wm = '© XzyyoBOT'
 global.watermark = wm
 global.wm2 = '⫹⫺ XzyyoBOT'
