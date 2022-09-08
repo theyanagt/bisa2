@@ -20,17 +20,17 @@ global.gopay = '6287819503464'
 global.namebot = 'XzyyoBOT'
 global.gc = 'https://chat.whatsapp.com/GPowqGKUrkM86EoVVyLc14'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
 
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© XzyyoBOT'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ XzyyoBOT'
+global.wm3 = '© XzyyoBOT'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
